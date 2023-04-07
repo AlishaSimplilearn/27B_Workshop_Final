@@ -1,0 +1,48 @@
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  background-color: #000;
+}
+
+li {
+  font-size: 16px;
+  color:dodgerblue;
+  margin-top: 20px;
+  margin-left: 200px;
+}
+.label {
+  color:darkorange;
+}
+
+h1 {
+  text-align: center;
+  font-size: 42px;
+  color:green;
+  
+}
+/* Style for the movie title */
+h3 {
+  text-align: center;
+  font-size: 42px;
+  color:aqua;
+  
+}
+/* Style for the container div */
+div {
+  max-width: 100%;
+  max-height: 100%;
+  margin: 0 auto;
+  background-color: #000;
+}
+img {
+  float: right;
+  border: 10px solid #0788ac;
+  margin-left: 10px;
+  margin-right: 300px;
+}
+
+
+
+
+
